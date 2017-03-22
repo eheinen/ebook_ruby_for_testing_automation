@@ -10,7 +10,10 @@ OOP Fundamentals
   - Object-Oriented Programming
 
 Ruby Fundamentals
-  - Installing Ruby Configuring Ruby Project Basic Commands Comments
+  - Installing Ruby
+  - Configuring Ruby Project 
+  - Basic Commands 
+  - Comments
   - Variables I
   - Operators
   - Array
